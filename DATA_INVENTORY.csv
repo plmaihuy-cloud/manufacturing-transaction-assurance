@@ -1,0 +1,8 @@
+path,role,provenance,claim_boundary
+data/simulation,Controlled simulation,Synthetic/controlled,"Main 14-station experiments, sensitivity and replication"
+data/external/daypsci,External physical-CPS trace evidence,Real HIL-originated archival traces,Representation gap and archival release replay; not live RAF control
+data/external/st_gallen,External smart-factory trace evidence,Real physical testbed traces,Clock/order sensitivity supporting audit
+data/external/hai/hai_episode_registry.csv,External HIL provenance,Real HIL episode metadata,Episode identities/controller/target labels
+data/external/hai/hai_transaction_overlay.csv,RAF transaction overlay,Simulated overlay,Not measured PLC commit outcomes
+data/emulator,Closed-loop transaction stress test,Synthetic plant emulator,Not PLC HIL
+data/robust_mpc,Comparator experiment,Synthetic reduced-order surrogate,Matched-information Robust MPC comparator

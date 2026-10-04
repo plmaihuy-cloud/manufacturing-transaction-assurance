@@ -1,0 +1,14 @@
+{
+  "n_parts": 275,
+  "injected": 70,
+  "safe": 205,
+  "d2_false_safe": 28,
+  "evidence_false_safe": 1,
+  "d2_false_veto": 0,
+  "evidence_false_veto": 8,
+  "d2_accuracy": 0.8981818181818182,
+  "evidence_accuracy": 0.9672727272727273,
+  "mcnemar_b": 27,
+  "mcnemar_c": 8,
+  "mcnemar_p": 0.0018782254774123432
+}

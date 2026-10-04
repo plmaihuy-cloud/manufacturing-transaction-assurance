@@ -1,0 +1,2 @@
+low_level_rows,stations,process_instances,activity_instances,all_station_local_monotone,cross_station_adjacent_inversions,median_station_update_s,max_station_p95_s,max_station_interval_s,start_within_0_5s_n,end_within_0_5s_n,start_within_1s_n,end_within_1s_n,positive_duration_n,positive_duration_contains_n
+13190,7,19,201,True,8,2.01,2.05,2.2,195,195,201,201,165,146
