@@ -1,0 +1,5 @@
+model,parameters,feasible_global_monotone,remaining_inversions,interpretation
+M0 raw aggregate source timestamps,none,False,8.0,Raw aggregate row order is not globally monotone in source time.
+M1 station-specific constant offset,one offset per station; reference offset fixed at 0,False,,One fixed station offset is insufficient.
+M2 station-specific affine clock,"t_corrected=a_s+b_s*t; reference a=0,b=1; b in [0.001,100]",False,,No stationary affine per-station correction reconciles the aggregate order.
+M3 piecewise station offset,120-s source-time blocks; min jump≈0.212s; min |offset|≈0.425s,True,0.0,"A sufficiently flexible time-varying offset can remove all inversions; this is sensitivity, not evidence that clock drift caused them."

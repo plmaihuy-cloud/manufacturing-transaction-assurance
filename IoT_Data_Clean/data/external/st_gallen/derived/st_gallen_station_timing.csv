@@ -1,0 +1,8 @@
+station,rows,timestamp_monotone,median_interval_s,p95_interval_s,max_interval_s
+MM_1,1886,True,2.01,2.02,2.07
+HBW_1,1881,True,2.01,2.05,2.17
+EC_1,1886,True,2.01,2.02,2.02
+SM_1,1885,True,2.01,2.02,2.2
+OV_1,1885,True,2.01,2.02,2.13
+WT_1,1885,True,2.01,2.02,2.19
+VGR_1,1882,True,2.01,2.04,2.12

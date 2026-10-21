@@ -1,0 +1,12 @@
+condition,class,n,injected_n,safe_n,d2_false_safe_n,evidence_false_safe_n,d2_false_veto_n,evidence_false_veto_n,anomaly_observable_in_injected_n,d2_in_injected_n
+Baseline,Baseline,25,0,25,0,0,0,0,0,0
+Combined sensor+valve,Logical/hybrid,25,6,19,0,0,0,0,6,6
+Sensor degradation,Temporal,25,11,14,10,1,0,0,10,1
+Sensor delay,Temporal,25,7,18,7,0,0,1,7,0
+Sensor glitch,Logical/hybrid,25,7,18,4,0,0,2,7,3
+Sensor noise,Logical/hybrid,25,7,18,0,0,0,2,7,7
+Sensor stuck-0,Logical/hybrid,25,7,18,0,0,0,2,7,7
+Sensor stuck-1,Logical/hybrid,25,7,18,1,0,0,1,7,6
+Valve delay,Temporal,25,6,19,6,0,0,0,6,0
+Valve stuck-OFF,Logical/hybrid,25,6,19,0,0,0,0,6,6
+Valve stuck-ON,Logical/hybrid,25,6,19,0,0,0,0,6,6

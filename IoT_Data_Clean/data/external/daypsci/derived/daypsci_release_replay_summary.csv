@@ -1,0 +1,3 @@
+gate,n_parts,oracle_inadmissible_n,oracle_admissible_n,false_safe_n,false_safe_pct,false_safe_wilson95_low_pct,false_safe_wilson95_high_pct,false_veto_n,false_veto_pct,false_veto_wilson95_low_pct,false_veto_wilson95_high_pct,injected_part_detection_n,injected_part_detection_pct,safe_part_admission_n,safe_part_admission_pct
+D2-only comparator,275,70,205,28,40.0,29.33425772556162,51.706203522643726,0,0.0,0.0,1.839413899130202,42,60.0,205,100.0
+Evidence-aware replay gate,275,70,205,1,1.4285714285714286,0.2526246457890312,7.658187131208328,8,3.902439024390244,1.9904631743683483,7.510264761902912,69,98.57142857142857,197,96.09756097560975

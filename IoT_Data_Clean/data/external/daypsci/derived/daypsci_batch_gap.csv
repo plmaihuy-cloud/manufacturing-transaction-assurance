@@ -1,0 +1,11 @@
+batch,condition,class,n,anomaly_n,d2_n,gap_pp
+pn_combined_T1_batch11,Combined sensor+valve,Logical/hybrid,6,6,6,0.0
+pn_sensor_T1_batch02,Sensor stuck-0,Logical/hybrid,7,7,7,0.0
+pn_sensor_T2_batch03,Sensor stuck-1,Logical/hybrid,7,7,6,14.285714285714286
+pn_sensor_T3_batch04,Sensor delay,Temporal,7,7,0,100.0
+pn_sensor_T4_batch05,Sensor noise,Logical/hybrid,7,7,7,0.0
+pn_sensor_T5_batch06,Sensor glitch,Logical/hybrid,7,7,3,57.142857142857146
+pn_sensor_T6_batch07,Sensor degradation,Temporal,11,10,1,81.81818181818181
+pn_valve_T1_batch08,Valve stuck-OFF,Logical/hybrid,6,6,6,0.0
+pn_valve_T2_batch09,Valve stuck-ON,Logical/hybrid,6,6,6,0.0
+pn_valve_T3_batch10,Valve delay,Temporal,6,6,0,100.0

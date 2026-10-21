@@ -1,0 +1,31 @@
+episode_id,episode_type,source_sequence,start_time_hhmm,duration_s,scenario,controller,variable,target_points,oracle_admissible,real_hil_provenance,source_dataset,source_note
+A401,attack,35,12:42,38,AP28,P2-SC,SP2,P2_ManualSD,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A402,attack,36,13:20,88,AP21,P1-TC,CO1-ST,P1_FCV01D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A403,attack,37,13:57,96,AP34,P2-TC,SP3,P2_RTR,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A404,attack,38,15:08,97,AP26 + AP37,P2-SC + P3-LC,SP1 + CO2,P2_AutoSD; P3_LCV01D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A405,attack,39,16:07,505,AP22,P1-TC,SP1-LT,P1_B4002,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A406,attack,40,17:22,186,AP09,P1-FC,SP1PV1,P1_B3005; P1_FT03,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A407,attack,41,19:45,122,AP19 + AP13,P1-TC + P1-FC,CO1 + CO1-ST,P1_FCV01D; P1_FCV03D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A408,attack,42,20:29,673,AP17,P1-LC,CO1PV1,P1_LCV01D; P1_LIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A409,attack,43,22:41,63,AP05,P1-PC,CO1PV1,P1_PCV01D; P1_PIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A410,attack,44,01:07,179,AP17,P1-LC,CO1PV1,P1_LCV01D; P1_LIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A411,attack,45,03:35,99,AP18,P1-LC,CO1-ST,P1_LCV01D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A412,attack,46,04:02,156,AP21,P1-TC,CO1-ST,P1_FCV01D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A413,attack,47,04:59,153,AP11,P1-FC,CO1PV1,P1_FCV03D; P1_FT03,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A414,attack,48,07:20,77,AP27,P2-SC,SP1PV1,P2_AutoSD; P2_SIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A415,attack,49,09:17,77,AP33,P2-TC,SP2,P2_VTR02,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A416,attack,50,10:39,134,AP12,P1-FC,CO1PV1PV2,P1_FCV03D; P1_FT03; P1_LIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A417,attack,51,11:22,544,AP25,P1-CC,SP1-LT,P1_PP04_SP,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A418,attack,52,13:23,342,AP01 + AP14,P1-PC + P1-LC,SP1 + SP1,P1_B2016; P1_B3004,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A419,attack,53,14:59,163,AP01 + AP35,P1-PC + P3-LC,SP1 + CO1,P1_B2016; P3_LCP01D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A420,attack,54,15:57,89,AP07 + AP30,P1-PC + P2-SC,CO1-ST + CO1PV1,P1_PCV01D; P2_SCO; P2_SIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A421,attack,55,17:34,152,AP23 + AP02,P1-CC + P1-PC,CO1 + SP1PV1,P1_PP04; P1_B2016; P1_PIT01,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A422,attack,56,20:08,165,AP26 + AP08,P2-SC + P1-FC,SP1 + SP1,P2_AutoSD; P1_B3005,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A423,attack,57,22:17,115,AP29 + AP10,P2-SC + P1-FC,CO1 + CO1,P2_SCO; P1_FCV03D,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+A424,attack,58,23:05,86,AP10 + AP23,P1-FC + P1-CC,CO1 + CO1,P1_FCV03D; P1_PP04,False,True,HAI 21.03,Archival HIL attack episode metadata from published HAI 21.03 timetable
+N01,normal,101,03:00,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.10; Level=440; Flow=1100; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2
+N02,normal,102,04:30,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.03; Level=400; Flow=1100; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2
+N03,normal,103,06:00,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.10; Level=400; Flow=1100; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2
+N04,normal,104,08:30,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.10; Level=400; Flow=900; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2
+N05,normal,105,10:00,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.10; Level=380; Flow=1100; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2
+N06,normal,106,12:00,300,Normal schedule point,P1 normal operation,SP schedule,Pressure=0.06; Level=420; Flow=1000; Temp=32,True,True,HAI 21.03,Benign operating-point definition from CSET'21 Table 2

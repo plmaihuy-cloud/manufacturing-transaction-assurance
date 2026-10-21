@@ -1,0 +1,4 @@
+class,n,injected_n,safe_n,d2_false_safe_n,evidence_false_safe_n,d2_false_veto_n,evidence_false_veto_n,anomaly_observable_in_injected_n,d2_in_injected_n
+Baseline,25,0,25,0,0,0,0,0,0
+Logical/hybrid,175,46,129,5,0,0,7,46,41
+Temporal,75,24,51,23,1,0,1,23,1

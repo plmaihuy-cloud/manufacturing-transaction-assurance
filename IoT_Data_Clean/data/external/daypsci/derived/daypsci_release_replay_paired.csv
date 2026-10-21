@@ -1,0 +1,2 @@
+n_pairs,d2_wrong_evidence_right_b,d2_right_evidence_wrong_c,net_accuracy_gain_pp,d2_accuracy_pct,evidence_accuracy_pct,exact_mcnemar_p
+275,27,8,6.909090909090909,89.81818181818181,96.72727272727273,0.0018782254774123432

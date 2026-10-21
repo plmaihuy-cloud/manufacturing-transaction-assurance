@@ -1,0 +1,2 @@
+sample,n_parts,anomaly_observable_n,gemma_d2_n,observed_gap_pp,role
+DAYPSCI baseline batch 01,25,0,0,0.0,Internal negative control only; not independent external replication.
